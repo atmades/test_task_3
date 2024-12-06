@@ -1,3 +1,6 @@
+
+![ ](/images/avaRound.png)
+
 # :books: Studying to Become a Data Engineer
 I have embarked on the journey of studying to become a Data Engineer, and it’s a significant challenge for me. My professional background is in UI/UX design, and I have experience in iOS development, having built a couple of commercial applications and several personal projects.
 
